@@ -1,9 +1,10 @@
 
 # ¡Hola! Soy Valentino 
 
+📍 Entre Ríos, Argentina  ·  valentinobadaracco04@gmail.com
 
 
-Estudiante avanzado de Ingeniería en Sistemas, de Crespo, Entre Ríos 🇦🇷.
+Estudiante avanzado de Ingeniería en Sistemas.
 Construyo aplicaciones web full-stack con React, Next.js y Supabase, aprendiendo resolviendo proyectos reales de principio a fin.
 Combino la ingeniería con un perfil creativo que aplico en la UI de lo que construyo.
 
